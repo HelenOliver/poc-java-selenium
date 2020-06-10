@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6419569d-fa19-49b4-bbb5-18ca1eea5398" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cpT2nVfEwxmBzBTtu1QpdquAiC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\helen.ferreira\Documents\Estudos\poc-java-selenium\drivers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in poc-java-selenium (4)">
+    <configuration name="All in poc-java-selenium (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poc-java-selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in poc-java-selenium (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poc-java-selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in poc-java-selenium (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poc-java-selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in poc-java-selenium (4)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poc-java-selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in poc-java-selenium" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="poc-java-selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in poc-java-selenium (4)" />
+        <item itemvalue="JUnit.All in poc-java-selenium (3)" />
+        <item itemvalue="JUnit.All in poc-java-selenium (2)" />
+        <item itemvalue="JUnit.All in poc-java-selenium (1)" />
+        <item itemvalue="JUnit.All in poc-java-selenium" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6419569d-fa19-49b4-bbb5-18ca1eea5398" name="Default Changelist" comment="" />
+      <created>1591224330678</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591224330678</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2332" y="250" key="FileChooserDialogImpl" timestamp="1591830205295">
+      <screen x="1920" y="112" width="1152" height="680" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824/1920.112.1152.680@0.0.1536.824" timestamp="1591363162291" />
+    <state x="2332" y="250" key="FileChooserDialogImpl/0.0.1536.824/1920.112.1152.680@1920.112.1152.680" timestamp="1591830205295" />
+    <state width="1109" height="87" key="GridCell.Tab.0.bottom" timestamp="1591831430615">
+      <screen x="1920" y="112" width="1152" height="680" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.112.1152.680@0.0.1536.824" timestamp="1591381962859" />
+    <state width="1109" height="87" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.112.1152.680@1920.112.1152.680" timestamp="1591831430615" />
+    <state width="1109" height="87" key="GridCell.Tab.0.center" timestamp="1591831430615">
+      <screen x="1920" y="112" width="1152" height="680" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.center/0.0.1536.824/1920.112.1152.680@0.0.1536.824" timestamp="1591381962858" />
+    <state width="1109" height="87" key="GridCell.Tab.0.center/0.0.1536.824/1920.112.1152.680@1920.112.1152.680" timestamp="1591831430615" />
+    <state width="1109" height="87" key="GridCell.Tab.0.left" timestamp="1591831430615">
+      <screen x="1920" y="112" width="1152" height="680" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.left/0.0.1536.824/1920.112.1152.680@0.0.1536.824" timestamp="1591381962858" />
+    <state width="1109" height="87" key="GridCell.Tab.0.left/0.0.1536.824/1920.112.1152.680@1920.112.1152.680" timestamp="1591831430615" />
+    <state width="1109" height="87" key="GridCell.Tab.0.right" timestamp="1591831430615">
+      <screen x="1920" y="112" width="1152" height="680" />
+    </state>
+    <state width="1493" height="271" key="GridCell.Tab.0.right/0.0.1536.824/1920.112.1152.680@0.0.1536.824" timestamp="1591381962859" />
+    <state width="1109" height="87" key="GridCell.Tab.0.right/0.0.1536.824/1920.112.1152.680@1920.112.1152.680" timestamp="1591831430615" />
+    <state x="277" y="55" key="SettingsEditor" timestamp="1591226541047">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824/1920.112.1152.680@0.0.1536.824" timestamp="1591226541047" />
+  </component>
+</project>
