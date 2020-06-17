@@ -19,6 +19,6 @@ public class CartPage extends PageObject {
 
     public void getTitleCart(String text) {
         String alert = this.cartTitle.getText().trim();
-        assertEquals("Page not found", text, alert);
+        assertEquals("Page not found!", text, alert);
     }
 }

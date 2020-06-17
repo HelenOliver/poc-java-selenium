@@ -9,5 +9,8 @@
         <module name="poc-java-selenium" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="poc-java-selenium" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
